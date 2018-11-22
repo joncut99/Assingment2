@@ -1,4 +1,4 @@
-Vegetarian Risotto:
+﻿Vegetarian Risotto:
 
 Ingredients:
 
@@ -19,7 +19,6 @@ Ingredients:
 -    salt and pepper to taste 
 
 Method:
-
 
     Preheat the oven to 180C / 350F and add the olive oil to a roasting tin.
     Chop the vegetables into small chunks and spread out in the tin, adding the salt and pepper before giving everything a shake to coat.
