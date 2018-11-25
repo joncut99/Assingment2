@@ -39,6 +39,8 @@ Starters Recipes:
 --------------------
 Tuna Dip
 
+Description: A flavourful dip best served with crackers or potato chips.
+
 List of Ingredients:
 
 -185g can tuna in sprinwater drained
@@ -59,6 +61,8 @@ Method:
 -------------------------------------------------------------------------------------------------------------------------------------
 
 Bruschetta
+
+Description: An Italian antipasto consisting of grilled bread topped with olive oil and a tomato mixture.
 
 Ingredients:
 
@@ -106,6 +110,9 @@ If you top each slice individually, do it right before serving.
 
 Prawn Cocktail
 
+Description: A classic starter introduced way back in the 20th centurywhich consists 
+	     of prawns drenched in Marie Rose sauce and served on a bed of lettuce.
+
 Ingredients:
 •	250g lighter mayonnaise 
 •	4 tbsp double cream 
@@ -129,7 +136,6 @@ Method of Preparation:
 
 
 -------------------------------------------------------------------------------------------------------------------------------------
-
 Main Course Recipes:
 --------------------
 Fettucine Al Fredo
