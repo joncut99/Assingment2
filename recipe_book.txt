@@ -5,7 +5,7 @@ Table of Contents:
 
 Introduction
 
-General Menu:
+Main Menu:
 	Starters
    	  - Tuna Dip
 	  - Bruschetta	
@@ -74,9 +74,8 @@ the perfect recipe that will please everyone. It includes both starters, main co
 will make your next gathering a great success.
 
 ---------------------------------------------------------------------------------------------------------------------------------
-Starter Recipes:
+Main Menu Starter Recipes:
 --------------------
-General Starters:
 
 Tuna Dip
 
@@ -853,5 +852,5 @@ Method:
 3.Dip ramekins, 1 at a time, into a bowl of hot water 3 seconds. Run a thin knife around edge of each ramekin and invert ramekin onto center of a small plate.
 
 
-						<<We hope that you will enjoy both making and tasting this meals.>>
+						<<We hope that you will enjoy both making and tasting these meals.>>
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
