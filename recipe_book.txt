@@ -3,6 +3,8 @@ Recipe Book
 
 Table of Contents:
 
+Introduction
+
 Starters
    - Bruschetta
    - Tuna Dip
@@ -18,10 +20,27 @@ Desserts:
    - Banoffee Pie
    - Lemon Cheesecake
 
+Conclusion
+
 ------------------------------
+Introduction:
+--------------
+
+Do you enjoy having family and friends over? If this is so, there is only one thing that brings people closer together and 
+that is a delightful meal that would please everyone’s likings. A successful get together wouldn’t be a success without that perfect dish. 
+However, creating such delightful meals can be quite a hassle and the same question always comes up, what shall I prepare? 
+No need to worry since we came up with the perfect solution! This recipe book includes a collection of recipes with several 
+cultural cuisines from all over the world. These meals are both easy and simple to prepare, and we guarantee that you’ll find 
+the perfect recipe that will please everyone. It includes both starters, main courses and even desserts that I’m sure that these 
+will make your next gathering a great success.
+
+---------------------------------------------------------------------------------------------------------------------------------
 Main Course Recipes:
 --------------------
 Fettucine Al Fredo
+
+Description: A quick and easy to make pasta dish, made from fettucinne tossed with parmasean cheese and butter	
+	     and seasoned with salt,pepper and garlic, which only takes around 30 mins to make. 	
 
 Ingredients:
 
@@ -43,6 +62,10 @@ this will thicken the sauce.
 ---------------------------------------------------------------------------------------------------------------------------------------------
 Beef Fillet
 
+Description: A delicious and easy to make recipe that only takes a few minutes to prepare,	
+	     between 40-50 mins and serves around 5-6 people. This is best served with tomato-	
+ 	     tarragon dressing for an additional taste.
+
 List of Ingredients:
 •	1.2kg prime beef fillet  
 •	Sea salt and black pepper 
@@ -63,7 +86,7 @@ For the tomato tarragon dressing:
 •	2 shallots, peeled and finely chopped 
 •	Large handful each of tarragon and flat leaf parsley, chopped 
 
-Method of Preperation:
+Method of Preparation:
 
 Preparing the tomato tarragon dressing:
 
@@ -96,6 +119,10 @@ Preparing the dish:
 - Serve the dish with the roasted potatoes.
 -------------------------------------------------------------------------------------------------------------
 Vegetarian Risotto:
+
+Description: A filling veggie risotto using sun dried tomatoes and flavored with fresh basil and parsley.	
+	     A colourful dish representing the Italian cuisine which takes around 40 mins to prepare and cook 	
+	     and serves 4 people.
 
 Ingredients:
 
