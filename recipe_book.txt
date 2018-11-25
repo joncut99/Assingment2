@@ -37,7 +37,7 @@ Vegetarian Menu:
 	Desserts:
 	  - 
 	  - Cranachan
-	  - 
+	  - Carrot Cake
 
 Conclusion
 
@@ -559,9 +559,7 @@ Ingredients
 2. To make Cookie Dough: Whisk together flour, cornstarch, and baking powder in bowl. Beat margarine in separate bowl with electric mixer until soft. Add sugar, and beat until fluffy. Beat in soymilk and vanilla extract 30 seconds or until smooth. Add flour mixture, and beat 30 seconds or until smooth.
 3. To make Cinnamon Sugar: Combine sugar and cinnamon on large plate.
 4. Shape dough into 1-inch balls. Roll each ball in Cinnamon Sugar, and place 1½ inches apart on prepared baking sheet. Bake 10 to 12 minutes, or until cookies look dry on tops and are lightly browned on bottoms. Transfer to wire rack to cool. Store in airtight container.
-<<<<<<< HEAD
-Note
-=======
+
 
 Cranachan
 ----------
@@ -584,7 +582,35 @@ Method of Preperation:
 - Stir in the oatmeal and whisk lightly until the mixture is just firm. 
 - Alternate layers of the cream with the remaining whole raspberries and purée in 4 serving dishes. Allow to chill slightly before eating.
 
->>>>>>> a2ce5751f3f4f1b642713c0e4f8a103c60c7f46d
+------------------------------------
+
+Carrot Cake
+
+Ingredients:
+-4 eggs
+-1 cup vegetable oil
+-2 cups white sugar
+-3 teaspoons vanilla extract
+-2 cups all-purpose flour
+-2 teaspoon baking soda
+-1/2 teaspoon salt
+-2 teaspoon ground cinnamon
+-3 grated carrots
+-2 cup chopped pecans
+-1/2 cup butter,shoftened
+-200g cream cheese softened
+-4 cups confectioners' sugar
+
+Method:
+1.Preheat oven to 350 degrees F (175 degrees C). Grease and flour a 9x13 inch pan.
+2.In a large bowl, beat together eggs, oil, white sugar and 2 teaspoons vanilla. Mix in flour, baking soda, baking powder, salt and cinnamon.
+ Stir in carrots. Fold in pecans. Pour into prepared pan.
+3.Bake in the preheated oven for 40 to 50 minutes, or until a toothpick inserted into the center of the cake comes out clean. 
+Let cool in pan for 10 minutes, then turn out onto a wire rack and cool completely.
+4.To Make Frosting: In a medium bowl, combine butter, cream cheese, confectioners' sugar and 1 teaspoon vanilla. Beat until the mixture is smooth and creamy.
+ Stir in chopped pecans. Frost the cooled cake.
+
+
 
 
 
