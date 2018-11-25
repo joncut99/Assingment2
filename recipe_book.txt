@@ -35,7 +35,7 @@ Vegetarian Menu:
 	  - Goat's cheese and barley risotto with winter greens
 
 	Desserts:
-	  - 
+	  - Vegan Snickerdoodles
 	  - Cranachan
 	  - Carrot Cake
 
@@ -540,6 +540,9 @@ Arrange the cabbage pieces and sprouts on top. Grate over the hard cheese and ba
 ------------------------------------------------
 Vegetarian Dessert:
 
+Vegan Snickerdoodles
+--------------------
+
 Ingredients
 
 
@@ -559,7 +562,7 @@ Ingredients
 2. To make Cookie Dough: Whisk together flour, cornstarch, and baking powder in bowl. Beat margarine in separate bowl with electric mixer until soft. Add sugar, and beat until fluffy. Beat in soymilk and vanilla extract 30 seconds or until smooth. Add flour mixture, and beat 30 seconds or until smooth.
 3. To make Cinnamon Sugar: Combine sugar and cinnamon on large plate.
 4. Shape dough into 1-inch balls. Roll each ball in Cinnamon Sugar, and place 1½ inches apart on prepared baking sheet. Bake 10 to 12 minutes, or until cookies look dry on tops and are lightly browned on bottoms. Transfer to wire rack to cool. Store in airtight container.
-
+----------------------------------------------------------------------
 
 Cranachan
 ----------
