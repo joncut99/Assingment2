@@ -1,33 +1,38 @@
-Recipe Book
+﻿Recipe Book
 -----------
 
 Table of Contents:
 
 Introduction
 
-Starters
-   General Starters:
-   	 - Tuna Dip
-	 - Bruschetta	
-         - Prawn Coctail
-   Vegetarian Starters:
- 	 - Mushroom Soup
+General Menu:
+	Starters
+   	  - Tuna Dip
+	  - Bruschetta	
+          - Prawn Coctail
 
-Main Course:
-  General Meals:
-     	 - Fettucini Al Fredo
-   	 - Beef Fillet
-    	 - Vegetarian Risotto
-  Vegetarian Meals:
-	 - 
+	Main Course:
+     	  - Fettucini Al Fredo
+   	  - Beef Fillet
+    	  - Vegetarian Risotto
 
-Desserts:
-  General Desserts:
+	Desserts:
  	  - Chocolate Cake
  	  - Banoffee Pie
 	  - Lemon Cheesecake
-  Vegetarian Desserts:
+Vegetarian Menu:
+	Starters:
+	  - Cheesy quesadillas with tomato, red pepper and avocado salsa
+          - Mushroom Soup
+	  - 
+	Main Course:
+	  - Butter bean and vegetable stew
+	  - Vegetarian Stuffed Sweet Potatoes
 	  -
+	Desserts:
+	  - 
+	  - Cranachan
+	  - 
 
 Conclusion
 
@@ -146,31 +151,6 @@ Method of Preparation:
   garnish the dish with a prawn and cayenne pepper.
 
 
--------------------------------------------------------------------------------------------------------------------------------------
-Vegetarian Starters:
-********************
-Mushroom Soup
-
-List of Ingredients:
-
-ï	1/2 tablespoons olive oil 
-ï	454g mushrooms, sliced (including mushroom stems)
-ï	8 cloves garlic, minced
-ï	1/2 large onion, finely diced
-ï	1 teaspoon sea salt & 1/2 teaspoon ground black pepper
-ï	3 cups high quality vegetable broth
-ï	1 1/2 cups of coconut milk 
-ï	4 sprigs thyme, stems removed
-
-Method of Preperation:
-
-- In a large pot over medium high heat, add the olive oil to heat.
-- Add the mushrooms, garlic, onion and salt and pepper. Stir together and sautÈ until mushrooms begin to release 
-  their natural juices, do this for about 8 minutes.
-- Pour in the vegetable broth and the coconut milk. Add in the thyme. Stir together and bring to a boil, then a simmer for 15 minutes.
-- Scoop out two cups of soup (with some mushrooms) and pour into your blender. 
-- Press the soup setting or blend until fully blended out. Pour back into soup pot and blend one more time.
-- Serve the soup and top with your favourite toppings.
 -------------------------------------------------------------------------------------------------------------------------------------
 Main Course Recipes:
 --------------------
@@ -377,13 +357,13 @@ Description: A zesty dessert made with simple ingredients and only takes a maxim
 
 List of Ingredients needed:
 
-ï	110g digestive biscuits
-ï	50g butter
-ï	25g brown sugar
-ï	350g mascarpone cheese
-ï	75g caster sugar
-ï	1 lemon zested
-ï	2-3 lemons juiced
+•	110g digestive biscuits
+•	50g butter
+•	25g brown sugar
+•	350g mascarpone cheese
+•	75g caster sugar
+•	1 lemon zested
+•	2-3 lemons, juiced
 
 Method of Preparation:
 
@@ -395,13 +375,14 @@ Method of Preparation:
 - In order to make the topping, mix the mascarpone cheese, caster sugar , lemon zest and lemon juice until smooth and creamy.
 - Spread the topping over the base and let it chill for a few hours.
 
+*****************************************************************************************************************************
+Vegetarian Menu:
 
-Vegetarian Menus:
 
-
-Vegetarian Starter:
+Vegetarian Starters:
 
 Cheesy quesadillas with tomato, red pepper and avocado salsa
+------------------------------------------------------------
 
 Ingredients:
 
@@ -422,11 +403,39 @@ Ingredients:
 3. Heat a dry frying pan over a medium heat and toast the quesadillas for 2 minutes on each side until golden, crisp and oozy. Cut the quesadillas into wedges and serve with the salsa and soured cream.
 
 
+Mushroom Soup
+-------------
+
+List of Ingredients:
+
+•	1/2 tablespoons olive oil or vegan butter
+•	16 ounces/454g/5 1/2 cups mushrooms, sliced (including mushroom stems)
+•	8 cloves garlic, minced
+•	1/2 large onion (about 3/4 cup), finely diced
+•	1 teaspoon sea salt & 1/2 teaspoon ground black pepper
+•	3 cups high quality vegetable broth
+•	1 13.5/383 can coconut milk (about 1 1/2 cups)
+•	4 sprigs thyme, stems removed
+
+
+Method of Preperation:
+
+- In a large pot over medium high heat, add the olive oil to heat.
+- Add the mushrooms, garlic, onion and salt and pepper. Stir together and sautÈ until mushrooms begin to release 
+  their natural juices, do this for about 8 minutes.
+- Pour in the vegetable broth and the coconut milk. Add in the thyme. Stir together and bring to a boil, then a simmer for 15 minutes.
+- Scoop out two cups of soup (with some mushrooms) and pour into your blender. 
+- Press the soup setting or blend until fully blended out. Pour back into soup pot and blend one more time.
+- Serve the soup and top with your favourite toppings.
+
+------------------------------------------------------------------------
 Vegetarian Main Course:
 
 Butter bean and vegetable stew
+------------------------------
 
 Ingredients
+
 * Large glug of olive oil
 * 2 sliced red onions
 * 1 sliced leek
@@ -448,6 +457,35 @@ Ingredients
 2. Stir in the wine, tomato purée and a few fresh rosemary sprigs and bubble for 2 minutes. Add the chopped tomatoes, season and simmer for 15 minutes, then stir in a the butter beans and a red kidney beans and cook for 10 minutes more.
 3. Stir in the spinach, garam masala and a handful of chopped fresh parsley, then serve with natural yogurt and extra chopped fresh parsley.
 
+Vegetarian Stuffed Sweet Potatoes
+---------------------------------
+
+List of Ingredients:
+
+•	4 medium sweet potatoes
+•	1 tablespoon olive oil 
+•	1/3 cup onions diced
+•	1 can low-sodium black beans 
+•	1 cup roasted corn 
+•	1/2 teaspoon cumin
+•	1/2 teaspoon smoked paprika
+•	salt and pepper to taste
+•	1/3 cup tomato chopped
+•	1/2 avocado chopped
+•	basil for garnish
+•	quinoa
+•	sour cream
+
+Method of Preperation:
+
+- Poke holes into sweet potatoes with a fork. Place sweet potatoes in the microwave for 10-11 minutes or until they are soft and thoroughly cooked.
+- In a frying pan heat oil over medium heat. Add corn, black beans, onions, cumin, smoked paprika, salt and pepper. Cook for about 6-7 minutes.
+- Remove sweet potatoes from microwave. Slice each sweet potato lengthwise down the middle then push both ends towards the middle so they open up.
+- Prepare the quinoa to add it as a topping to the baked potato.
+- Using a fork, slightly mash the inside of the sweet potato. Top with black bean and corn mixture, tomatoes, and avocado and quinoa.
+- Add a little bit of sour cream and serve.
+
+------------------------------------------------
 Vegetarian Dessert:
 
 Ingredients
@@ -469,7 +507,32 @@ Ingredients
 2. To make Cookie Dough: Whisk together flour, cornstarch, and baking powder in bowl. Beat margarine in separate bowl with electric mixer until soft. Add sugar, and beat until fluffy. Beat in soymilk and vanilla extract 30 seconds or until smooth. Add flour mixture, and beat 30 seconds or until smooth.
 3. To make Cinnamon Sugar: Combine sugar and cinnamon on large plate.
 4. Shape dough into 1-inch balls. Roll each ball in Cinnamon Sugar, and place 1½ inches apart on prepared baking sheet. Bake 10 to 12 minutes, or until cookies look dry on tops and are lightly browned on bottoms. Transfer to wire rack to cool. Store in airtight container.
+<<<<<<< HEAD
 Note
+=======
+
+Cranachan
+----------
+
+List of Ingredients:
+
+•	2 tbsp medium oatmeal
+•	300g fresh British raspberries
+•	a little caster sugar
+•	350ml double cream 
+•	2 tbsp heather honey
+•	2-3 tbsp whisky
+
+Method of Preperation:
+
+- To toast the oatmeal, spread it out on a baking sheet and grill for a couple of minutes until it smells rich and nutty. 
+- Let the oatmeal cool.
+- Make a raspberry purée by crushing half the fruit and sieving. Sweeten this to taste with a little caster sugar. 
+- Whisk the double cream until just set, and stir in the honey and whisky, trying not to over-whip the cream. 
+- Stir in the oatmeal and whisk lightly until the mixture is just firm. 
+- Alternate layers of the cream with the remaining whole raspberries and purée in 4 serving dishes. Allow to chill slightly before eating.
+
+>>>>>>> a2ce5751f3f4f1b642713c0e4f8a103c60c7f46d
 
 
 
