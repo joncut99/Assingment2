@@ -20,15 +20,20 @@ General Menu:
  	  - Chocolate Cake
  	  - Banoffee Pie
 	  - Lemon Cheesecake
+
+
 Vegetarian Menu:
+
 	Starters:
 	  - Cheesy quesadillas with tomato, red pepper and avocado salsa
           - Mushroom Soup
-	  - 
+	  - Spinach Artichoke Dip
+
 	Main Course:
 	  - Butter bean and vegetable stew
 	  - Vegetarian Stuffed Sweet Potatoes
 	  -
+
 	Desserts:
 	  - 
 	  - Cranachan
@@ -427,6 +432,26 @@ Method of Preperation:
 - Scoop out two cups of soup (with some mushrooms) and pour into your blender. 
 - Press the soup setting or blend until fully blended out. Pour back into soup pot and blend one more time.
 - Serve the soup and top with your favourite toppings.
+
+---------------------------------
+
+Spinach Artichoke Dip
+
+Ingredients:
+-Parmesan Cheese
+-Spinach
+-Artichoke hearts
+-Sour cream
+-Cream Cheese
+-Mayonaisse
+-Garlic
+-Chips
+-Bread Slices
+
+Method:
+1. Mix parmesan cheese, spinach, and artichoke hearts in a bowl.
+2. In a separate bowl, mix together sour cream, cream cheese, mayonaisse, and garlic. Add to spinach mixture and mix everything until well combined.
+3. Pour into 8×8 pan and bake for 25 minutes at 375°. Serve immediately with your choice of chips, bread slices, or veggies.
 
 ------------------------------------------------------------------------
 Vegetarian Main Course:
