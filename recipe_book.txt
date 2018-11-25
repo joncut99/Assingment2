@@ -25,11 +25,13 @@ Pizza Pasta Menu:
 	Starters:
 	  - Prosciutto-wrapped grissini breadsticks with cheese sauce
           - Rosemary Focaccia Bread
-	  - 
+	  - Tagliolini with squid and courgette flowers
+
 	Main Course:
 	  - Pasta Pescatore
 	  - Creamy Courgette & Bacon pasta
 	  -
+
 	Desserts:
 	  - Chocolate dipped Cannoli
 	  - Tiramisu
@@ -419,7 +421,32 @@ Ingredients:
 6. Bake for 20 minutes, or until the dough is slightly golden and cooked through.  Remove from the oven, and drizzle with a little more olive oil if desired.
 7. Slice, and serve warm.
 
+Tagliolini with squid and courgette flowers
+---------------------------------------------
+Ingredients:
+Tagliolini Pasta
+-300g of 00 flour
+-3 eggs
+Squid and Courgette Flowers
+-300g of baby squid
+-10 courgette flowers, roughly chopped
+-1 garlic clove
+-8 tablespoons of extra virgin olive oil
+-olive oil
+-salt
 
+Method:
+1. To make the pasta, place the flour on a clean surface and make a well in the centre. 
+Add the eggs and bring together with your hands, gradually incorporating all the flour from the sides of the well until it forms a dough
+2. Continue to knead the dough until it the texture is smooth and consistent, then transfer to a bowl. Cover with cling film and leave to rest in the fridge for 30 minutes
+3. Once rested, use a pasta machine or rolling pin to roll out the dough into a sheet 0.5mm. Leave to stand for 10 minutes to dry out a little, until the dough is no longer sticky, then fold the dough over itself to form a concertina. 
+Cut thin strips along the folded dough, then unfold the tagliolini and shape into nests. Dust with a little flour to avoid clumping and set aside until required
+4. Heat the extra virgin olive oil in a large frying pan. Lightly crush the garlic clove with the side of a knife and sauté gently in the oil to infuse. 
+Remove the garlic from the pan and discard, keeping the pan on the heat
+5. Add the baby squids to the pan, seasoning with a little salt. Sauté over a high heat for a few minutes and add the courgette flowers to the pan, allowing them to wilt a little until softened.
+ Remove from the heat and set to one side while the pasta cooks
+6. Bring a large pan of salted water to the boil and add the tagliolini nests to the pan. Cook for 2 minutes, then drain and add to the squid and courgette flowers, mixing well until fully incorporated
+7. To serve, divide the pasta evenly between four serving plates. Drizzle with olive oil, check the seasoning and serve immediately
 
 -------------------------------------------------------------------------
 Pizza Pasta Main Course:
