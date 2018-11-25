@@ -30,12 +30,12 @@ Pizza Pasta Menu:
 	Main Course:
 	  - Pasta Pescatore
 	  - Creamy Courgette & Bacon pasta
-	  -
+	  - Pizza Peperoni
 
 	Desserts:
 	  - Chocolate dipped Cannoli
 	  - Tiramisu
-	  - 
+	  - Panna Cotta
 
 Conclusion
 
@@ -514,8 +514,17 @@ Method of Preparation:
 - Over a low heat toss everything together with the crème fraiche and half the Parmesan adding a splash of pasta water too if you need to loosen the sauce. 
 - Season to taste and serve twirled into bowls with the remaining Parmesan scattered over.
 
+Pizza Peperoni
+--------------
+Ingredients:
+-1 cup tomato-and-basil pasta sauce
+-1 package prebaked whole wheat thin Italian pizza crust
+-1/4 cup turkey pepperoni slices (about 24)
+-1 1/2 cups part-skim mozzarella cheese
 
-
+Method:
+1. Spoon tomato-and-basil pasta sauce evenly over crust, leaving a 1-inch border around edges. Top with half of pepperoni slices. Sprinkle with cheese. Top with remaining pepperoni.
+2. Bake pizza at 450° directly on oven rack 11 to 12 minutes or until crust is golden and cheese is melted.
 
 -----------------------------------------------------------------------------------------------------------------------
 Pizza-Pasta Desserts:
@@ -563,6 +572,23 @@ Method of Preparation:
 - Spread half of the whipped cream mixture on top of first layer of boudoir biscuits. Repeat process with second layer of lady fingers and cream mixture.
 - Dust the top of dessert with cocoa powder using a sieve. Refrigerate for about 2-4 hours.
 
+
+Panna Cotta
+-----------
+
+Ingredients:
+-1 tablespoon unflavored gelatin 
+-2 tablespoons cold water
+-2 cups heavy cream
+-1 cup half and half
+-1/3 cup sugar
+-1 1/2 teaspoons vanilla extract
+
+Method:
+1.In a very small saucepan sprinkle gelatin over water and let stand about 1 minute to soften. Heat gelatin mixture over low heat until gelatin is dissolved and remove pan from heat.
+2.In a large saucepan bring cream, half and half, and sugar just to a boil over moderately high heat, stirring. Remove pan from heat and stir in gelatin mixture and vanilla.
+ Divide cream mixture among eight 1/2-cup ramekins and cool to room temperature. Chill ramekins, covered, at least 4 hours or overnight.
+3.Dip ramekins, 1 at a time, into a bowl of hot water 3 seconds. Run a thin knife around edge of each ramekin and invert ramekin onto center of a small plate.
 
 
 
