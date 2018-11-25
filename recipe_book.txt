@@ -32,7 +32,7 @@ Vegetarian Menu:
 	Main Course:
 	  - Butter bean and vegetable stew
 	  - Vegetarian Stuffed Sweet Potatoes
-	  -
+	  - Goat's cheese and barley risotto with winter greens
 
 	Desserts:
 	  - 
@@ -509,6 +509,33 @@ Method of Preperation:
 - Prepare the quinoa to add it as a topping to the baked potato.
 - Using a fork, slightly mash the inside of the sweet potato. Top with black bean and corn mixture, tomatoes, and avocado and quinoa.
 - Add a little bit of sour cream and serve.
+
+--------------------------------------------
+Goat's cheese and barley risotto with winter greens
+
+Ingredients:
+-Light olive oil or vegetable oil for frying
+-1 savoy cabbage, cut into quarters
+-300g brussels sprouts, halved if large
+-1 onion, finely sliced
+-2 garlic cloves, crushed
+-100g pearl barley
+-3 tablespoon plain flour
+-200ml white wine
+-400ml whole milk
+-100g sun-dried tomatoes, drained
+-100g taleggio cheese (or vegetarian alternative)
+-100g goat’s cheese
+-Bunch fresh basil, roughly chopped
+-50g vegetarian parmesan-style cheese
+
+Method:
+1. In a large flameproof casserole, heat a glug of oil over a high heat, then sear the cabbage and sprouts until browned all over (about 3 minutes). Set aside.
+2. Reduce the heat, add the onion, then fry gently for 5 minutes, stirring occasionally, until softening. Add the garlic and pearl barley, then stir for 2-3 minutes.
+3. Stir in the flour and cook for a minute, then pour in the wine. Turn up the heat and bubble for a minute, stirring with a wooden spoon. Reduce the heat and add the milk,
+ then simmer for 15-20 minutes, stirring every so often, until the sauce thickens and the barley softens.
+4. Heat the oven to 220?°C/200?°C (fan/gas). Add the sun-dried tomatoes, taleggio and goat’s cheese. Stir for 5 minutes until the cheese has melted, then stir in the basil. 
+Arrange the cabbage pieces and sprouts on top. Grate over the hard cheese and bake for 20-25 minutes until golden.
 
 ------------------------------------------------
 Vegetarian Dessert:
