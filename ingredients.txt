@@ -1,29 +1,33 @@
-Fruit & Vegetables    Diary   		 	Grains    		Poultry & Fish   		Other
-
-lettuce		      double cream	 	1 baguette		600g coldwater prawns		cayenne pepper
-6 lemons	      milk		 	digestive biscuits	1.2kg prime beef meat		tabasco sauce
-tarragon	      mayonnaise	 	fettucini Pasta		tuna				tomato ketchup
-basil		      1 cup cream cheese	risotto rice		100g prosciutto			balsamic vinegar
-<<<<<<< HEAD
-9 tomatoes	      5 cups butter		flour			12 cleaned clams		sea salt
-2 shallots	      mascrpone cheese		grissini breadsticks	12 sea scallops			black pepper
-parsley	      	      Heavy cream		spaghetti		20 cleaned mussels		caster sugar
-9 cloves garlic	      1 cup romano cheese	boudoir biscuits	12 large strips, cleaned	olive oil
-3 red onions	      1 cup parmesan cheese	300g tagliatelle	0.5 fresh squid, cleaned	Worchestershire sauce
-2 Bananas    	      3 eggs										mustard									fresh rosemary	      ricotta cheese									warm water
-5 potatoes	      150g semi-firm cheese								brown sugar
-Fresh parsley	      goats cheese									white sugar or honey
-1 orange	      100g dark chocolate melted							garlic salt
-		      low fat creme frache											vanilla
-		      whipped cream											cocoa powder
-													baking soda
-													baking powder
-													yeast
-													0.5 cup white wine
-													seafood stock
-													icing sugar
-													1 vanilla pod
-													6 cannoli shells remade
-													brandy
-													espresso
-													vanilla extract
+Fruit & Vegetables    		Diary   		 	Grains    		Poultry & Fish   		Other
+-----------------------------------------------------------------------------------------------------------------------------------------------
+lettuce			        double cream	 		1 baguette		600g coldwater prawns		cayenne pepper
+6 lemons		        milk		 		digestive biscuits	1.2kg prime beef meat		tabasco sauce
+tarragon		      	mayonnaise	 		fettucini Pasta		tuna				tomato ketchup
+basil			      	1 cup cream cheese		risotto rice		100g prosciutto			balsamic vinegar
+9 tomatoes	        	5 cups butter			flour			12 cleaned clams		sea salt
+2 shallots	       	    	mascrpone cheese		grissini breadsticks	12 sea scallops			black pepper
+parsley	      	      		Heavy cream			spaghetti		20 cleaned mussels		caster sugar
+10 cloves garlic      		1 cup romano cheese		boudoir biscuits	12 large strips, cleaned	olive oil
+3 red onions	      		1 cup parmesan cheese		300g tagliatelle	0.5 fresh squid, cleaned	Worchestershire sauce
+2 Bananas    	      		6 eggs				300g of 00 flour	300g of baby squid		mustard									
+fresh rosemary	      		ricotta cheese										warm water
+5 potatoes	      		150g semi-firm cheese									brown sugar
+Fresh parsley	      		goats cheese										white sugar or honey
+1 orange	      		100g dark chocolate melted								garlic salt
+10 courgette flowers  		low fat creme frache									vanilla
+1 cup tomato &basil sauce       whipped cream										cocoa powder
+				1/4 cup of peperoni sclices								baking soda
+				1 1/2 cups mozzarella cheese								baking powder
+				2 cups heavy cream cheese								yeast
+				1 cup half and half									0.5 cup white wine
+															seafood stock
+															icing sugar
+															1 vanilla pod
+															6 cannoli shells remade
+															brandy
+															espresso
+															1pkt Italian pizza crust
+															vanilla extract
+															extra virgin olive oil
+															1 tablespoon gelatin
+															cold water
