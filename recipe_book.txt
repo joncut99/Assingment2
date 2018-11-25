@@ -5,29 +5,30 @@ Table of Contents:
 
 Introduction
 
-Starters
-   General Starters:
-   	 - Tuna Dip
-	 - Bruschetta	
-         - Prawn Coctail
-   Vegetarian Starters:
- 	 - Mushroom Soup
+General Menu:
+	Starters
+   	  - Tuna Dip
+	  - Bruschetta	
+          - Prawn Coctail
 
-Main Course:
-  General Meals:
-     	 - Fettucini Al Fredo
-   	 - Beef Fillet
-    	 - Vegetarian Risotto
-  Vegetarian Meals:
-	 - 
+	Main Course:
+     	  - Fettucini Al Fredo
+   	  - Beef Fillet
+    	  - Vegetarian Risotto
 
-Desserts:
-  General Desserts:
+	Desserts:
  	  - Chocolate Cake
  	  - Banoffee Pie
 	  - Lemon Cheesecake
-  Vegetarian Desserts:
-	  -
+Vegetarian Menu:
+	Starters:
+	  - Cheesy quesadillas with tomato, red pepper and avocado salsa
+          - Mushroom Soup
+	  - 
+	Main Course:
+	  - Butter bean and vegetable stew
+	  - Vegetarian Stuffed Sweet Potatoes
+
 
 Conclusion
 
