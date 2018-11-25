@@ -37,6 +37,23 @@ Vegetarian Menu:
 	  - Vegan Snickerdoodles
 	  - Cranachan
 	  - Carrot Cake
+	  
+Pizza Pasta Menu:
+	Starters:
+	  - Prosciutto-wrapped grissini breadsticks with cheese sauce
+          - Rosemary Focaccia Bread
+	  - Tagliolini with squid and courgette flowers
+
+	Main Course:
+	  - Pasta Pescatore
+	  - Creamy Courgette & Bacon pasta
+	  - Pizza Peperoni
+
+	Desserts:
+	  - Chocolate dipped Cannoli
+	  - Tiramisu
+	  - Panna Cotta
+
 
 
 ------------------------------
@@ -294,6 +311,9 @@ Dessert Recipes:
 Chocolate Cake
 ---------------
 
+Description: A moist and fudgy chocolate cake, that can be easily prepared and is 
+	     perfect for every occasion.
+
 Ingredients:
 
 -1 cup butter softened
@@ -325,11 +345,11 @@ Method:
 13. Place cakes on a wire rack, to them allow completely cool.
 
 
-
-
 Banoffee Pie:
 -------------
 
+Description : An British pie made from bananas and caramel combined on a buttery biscuit base. An easy dessert recipe
+	      that takes around 10-20 minutes to prepare and make.
 Ingredients:
 
      For the base:
@@ -384,7 +404,6 @@ Method of Preparation:
 - In order to make the topping, mix the mascarpone cheese, caster sugar , lemon zest and lemon juice until smooth and creamy.
 - Spread the topping over the base and let it chill for a few hours.
 
-
 *****************************************************************************************************************************
 Vegetarian Menu:
 
@@ -408,8 +427,8 @@ Ingredients:
 * 4 small corn tortillas
 * Soured cream, to serve
 
-1. Mix the avocados, cherry tomatoes, coriander, shallot, the zest and juice of 1 lime, 1 tbsp olive oil and plenty of salt and pepper in a bowl.
-2. In another bowl, mix together the cheddar, roasted red peppers, chipotle chilli flakes and some black pepper. Divide the mixture between 2 small corn tortillas and top with 2 more small corn tortillas.
+1. Mix the avocados, cherry tomatoes, coriander, shallot, the zest and juice of 1 lime, 1 tbsp olive oil and plenty of salt and pepper in a bowl.
+2. In another bowl, mix together the cheddar, roasted red peppers, chipotle chilli flakes and some black pepper. Divide the mixture between 2 small corn tortillas and top with 2 more small corn tortillas.
 3. Heat a dry frying pan over a medium heat and toast the quesadillas for 2 minutes on each side until golden, crisp and oozy. Cut the quesadillas into wedges and serve with the salsa and soured cream.
 
 
@@ -441,7 +460,6 @@ Method of Preperation:
 ---------------------------------
 
 Spinach Artichoke Dip
----------------------
 
 Ingredients:
 -Parmesan Cheese
@@ -484,9 +502,9 @@ Ingredients
 
 
 
-1. Heat a the oil in a deep casserole over a medium heat, add the onions, leek, peppers and carrots, then fry for 5-8 minutes until softening.
-2. Stir in the wine, tomato purée and a few fresh rosemary sprigs and bubble for 2 minutes. Add the chopped tomatoes, season and simmer for 15 minutes, then stir in a the butter beans and a red kidney beans and cook for 10 minutes more.
-3. Stir in the spinach, garam masala and a handful of chopped fresh parsley, then serve with natural yogurt and extra chopped fresh parsley.
+1. Heat a the oil in a deep casserole over a medium heat, add the onions, leek, peppers and carrots, then fry for 5-8 minutes until softening.
+2. Stir in the wine, tomato purée and a few fresh rosemary sprigs and bubble for 2 minutes. Add the chopped tomatoes, season and simmer for 15 minutes, then stir in a the butter beans and a red kidney beans and cook for 10 minutes more.
+3. Stir in the spinach, garam masala and a handful of chopped fresh parsley, then serve with natural yogurt and extra chopped fresh parsley.
 
 Vegetarian Stuffed Sweet Potatoes
 ---------------------------------
@@ -546,9 +564,6 @@ Arrange the cabbage pieces and sprouts on top. Grate over the hard cheese and ba
 ------------------------------------------------
 Vegetarian Dessert:
 
-Vegan Snickerdoodles
---------------------
-
 Ingredients
 
 
@@ -568,7 +583,7 @@ Ingredients
 2. To make Cookie Dough: Whisk together flour, cornstarch, and baking powder in bowl. Beat margarine in separate bowl with electric mixer until soft. Add sugar, and beat until fluffy. Beat in soymilk and vanilla extract 30 seconds or until smooth. Add flour mixture, and beat 30 seconds or until smooth.
 3. To make Cinnamon Sugar: Combine sugar and cinnamon on large plate.
 4. Shape dough into 1-inch balls. Roll each ball in Cinnamon Sugar, and place 1½ inches apart on prepared baking sheet. Bake 10 to 12 minutes, or until cookies look dry on tops and are lightly browned on bottoms. Transfer to wire rack to cool. Store in airtight container.
-----------------------------------------------------------------------
+
 
 Cranachan
 ----------
@@ -582,7 +597,7 @@ List of Ingredients:
 •	2 tbsp heather honey
 •	2-3 tbsp whisky
 
-Method of Preperation:
+Method of Preparation:
 
 - To toast the oatmeal, spread it out on a baking sheet and grill for a couple of minutes until it smells rich and nutty. 
 - Let the oatmeal cool.
@@ -606,7 +621,7 @@ Ingredients:
 -2 teaspoon ground cinnamon
 -3 grated carrots
 -2 cup chopped pecans
--1/2 cup butter,shoftened
+-1/2 cup butter,softened
 -2 cups cream cheese softened
 -4 cups confectioners' sugar
 
@@ -619,5 +634,224 @@ Let cool in pan for 10 minutes, then turn out onto a wire rack and cool complete
 4.To Make Frosting: In a medium bowl, combine butter, cream cheese, confectioners' sugar and 1 teaspoon vanilla. Beat until the mixture is smooth and creamy.
  Stir in chopped pecans. Frost the cooled cake.
 
+*******************************************************************************************************************************
+Pizza-Pasta Menu
+----------------
+
+Pizza-Pasta Starters:
+
+Prosciutto-wrapped grissini breadsticks with cheese sauce
+---------------------------------------------------------
+
+List of Ingredients:
+
+•	25g butter
+•	1 tablespoon plain flour
+•	200ml milk
+•	150g semi-firm cheese, cubed
+•	3 tablespoons cream
+•	salt and freshly ground black pepper to taste
+•	100g prosciutto
+•	1 packet shop-bought grissini breadsticks
+
+Method of Preparation
+
+- In a small pan, melt the butter, add the flour and stir. Add the milk slowly and stir.
+- Add the cheese. Add the cream and keep cooking all the ingredients over low heat. Add salt and pepper to taste.
+- Wrap prosciutto around the breadsticks and place them on a large plate.
+- Pour the cheese sauce into a bowl where to dip the breadsticks. Serve.
+
+Rosemary Focaccia Bread
+-----------------------
+
+Ingredients:
+* 1 1/3 cup warm water (about 110°F*)
+* 2 teaspoons sugar or honey
+* 1 (0.25 ounce) package active-dry yeast
+* 3 1/2 cups all purpose flour
+* 1/4 cup extra virgin olive oil, plus more for drizzling
+* 2 teaspoons sea salt
+* 2 sprigs fresh rosemary
+* flaked sea salt
 
 
+1. Add warm water (*about 110°F, which you can measure with a thermometer if you want to be sure it’s the right temp) and sugar to the bowl of a stand mixer with the dough attachment, and stir to combine.  Sprinkle the yeast on top of the water.  Give the yeast a quick stir to mix it in with the water.  Then let it sit for 5-10 minute until the yeast is foamy.
+2. Turn the mixer onto low speed, and add gradually flour, olive oil and salt.  Increase speed to medium-low, and continue mixing the dough for 5 minutes.  (If the dough is too sticky and isn’t pulling away from the sides of the bowl, add in an extra 1/4 cup flour while it is mixing.)
+3. Remove dough from the mixing bowl, and use your hands to shape it into a ball.  Grease the mixing bowl (or a separate bowl) with olive oil or cooking spray, then place the dough ball back in the bowl and cover it with a damp towel.  Place in a warm location (I set mine by the window) and let it rise for 45-60 minutes, or until the dough has nearly doubled in size.
+4. Preheat oven to 400°F.  Turn the dough onto a floured surface, and roll it out into a large circle or rectangle until that the dough is about 1/2-inch thick*.  Cover the dough with a greased piece of plastic wrap, and let the dough continue to rise for another 20 minutes.
+5. Remove the plastic wrap, and transfer the dough to a large baking sheet.  Use your fingers to poke deep dents (seriously, poke all the way down to the baking sheet!) all over the surface of the dough.  Then drizzle a tablespoon or two of olive oil evenly all over the top of the dough, and sprinkle evenly with the fresh rosemary needles and sea salt.
+6. Bake for 20 minutes, or until the dough is slightly golden and cooked through.  Remove from the oven, and drizzle with a little more olive oil if desired.
+7. Slice, and serve warm.
+
+Tagliolini with squid and courgette flowers
+---------------------------------------------
+Ingredients:
+Tagliolini Pasta
+-300g of 00 flour
+-3 eggs
+Squid and Courgette Flowers
+-300g of baby squid
+-10 courgette flowers, roughly chopped
+-1 garlic clove
+-8 tablespoons of extra virgin olive oil
+-olive oil
+-salt
+
+Method:
+1. To make the pasta, place the flour on a clean surface and make a well in the centre. 
+Add the eggs and bring together with your hands, gradually incorporating all the flour from the sides of the well until it forms a dough
+2. Continue to knead the dough until it the texture is smooth and consistent, then transfer to a bowl. Cover with cling film and leave to rest in the fridge for 30 minutes
+3. Once rested, use a pasta machine or rolling pin to roll out the dough into a sheet 0.5mm. Leave to stand for 10 minutes to dry out a little, until the dough is no longer sticky, then fold the dough over itself to form a concertina. 
+Cut thin strips along the folded dough, then unfold the tagliolini and shape into nests. Dust with a little flour to avoid clumping and set aside until required
+4. Heat the extra virgin olive oil in a large frying pan. Lightly crush the garlic clove with the side of a knife and sauté gently in the oil to infuse. 
+Remove the garlic from the pan and discard, keeping the pan on the heat
+5. Add the baby squids to the pan, seasoning with a little salt. Sauté over a high heat for a few minutes and add the courgette flowers to the pan, allowing them to wilt a little until softened.
+ Remove from the heat and set to one side while the pasta cooks
+6. Bring a large pan of salted water to the boil and add the tagliolini nests to the pan. Cook for 2 minutes, then drain and add to the squid and courgette flowers, mixing well until fully incorporated
+7. To serve, divide the pasta evenly between four serving plates. Drizzle with olive oil, check the seasoning and serve immediately
+
+-------------------------------------------------------------------------
+Pizza Pasta Main Course:
+
+Pasta Pescatore:
+----------------
+
+List of Ingredients:
+
+* 4 Tablespoons Olive Oil
+* 1/3 Cup Minced Onion
+* 3 Garlic Cloves, Peeled & Minced
+* 12 Cleaned Clams
+* 1/2 Cup Dry White Wine
+* 1 1/2 Cups Seafood Stock
+* 3 Cups Pureed or Chopped Tomatoes
+* 12 Sea Scallops
+* 20 Cleaned Mussels
+* 12 Large Shrimp, Cleaned
+* 1/2 Pound Fresh Squid, Cleaned & Chopped
+* 1/4 Cup Chopped Fresh Parsley
+* Salt & Pepper
+* Red Pepper Flakes
+* 1 Pound Spaghetti Or Pasta Of Choice
+Gremolata:
+* 1/3 Cup Fresh Parsley
+* Zest of One Lemon
+* 3 Cloves Garlic, Peeled
+
+
+Method:
+
+1. In a large saucepan, heat the oil and then cook the onions until they are soft and translucent, about 4 minutes.
+2. Add the garlic, and cook another couple of minutes.
+3. Add the wine and fish stock and bring to a boil, then add the clams and cook until they open.
+4. Add the tomatoes, parsley, salt, pepper, and red pepper flakes and bring to a boil.
+5. Reduce the heat and add the remaining seafood, and cook over low heat while the pasta cooks.
+6. Cook the pasta in boiling salted water until it is “al dente“.
+7. Mince the gremolata ingredients together and set aside.
+8. Drain the pasta, top with a scoop of the tomato sauce and toss well.
+9. Serve in four individual bowls, topped with more sauce, and dividing the seafood up evenly between the four dishes
+10. Sprinkle some gremolata on each dish and serve immediately.
+
+
+Creamy Courgette & Bacon pasta:
+------------------------------
+
+List of Ingredients:
+
+•	1 tsp olive oil
+•	150g diced pancetta 
+•	4 courgettes coarsely grated
+•	1 garlic clove, crushed
+•	freshly grated parmesan
+•	200g low-fat crème fraîche
+•	300g tagliatelle
+
+Method of Preparation:
+
+- Heat the olive oil in a large frying pan and sizzle the pancetta for about 5 mins until starting to crisp. 
+- Turn up the heat and add the grated courgette to the pan. 
+- Cook for 5 mins or until soft and starting to brown then add the garlic and cook for a minute longer. Season and set aside.
+- Cook the tagliatelle according to the pack instructions and scoop out a cupful of cooking water. 
+- Drain the tagliatelle and tip into the frying pan with the bacon and courgette. 
+- Over a low heat toss everything together with the crème fraiche and half the Parmesan adding a splash of pasta water too if you need to loosen the sauce. 
+- Season to taste and serve twirled into bowls with the remaining Parmesan scattered over.
+
+Pizza Pepperoni
+--------------
+Ingredients:
+-1 cup tomato-and-basil pasta sauce
+-1 package prebaked whole wheat thin Italian pizza crust
+-1/4 cup turkey pepperoni slices (about 24)
+-1 1/2 cups part-skim mozzarella cheese
+
+Method:
+1. Spoon tomato-and-basil pasta sauce evenly over crust, leaving a 1-inch border around edges. Top with half of pepperoni slices. Sprinkle with cheese. Top with remaining pepperoni.
+2. Bake pizza at 450° directly on oven rack 11 to 12 minutes or until crust is golden and cheese is melted.
+
+-----------------------------------------------------------------------------------------------------------------------
+Pizza-Pasta Desserts:
+
+Chocolate dipped Cannoli:
+-------------------------
+
+Ingredients:
+
+* 225g whole milk ricotta cheese
+* 110g icing sugar
+* 340g goats cheese
+* 1 orange, zested
+* 1 vanilla pod
+* 6 large cannoli shells, premade
+* 110g dark chocolate, melted
+
+
+Method 
+1) In a food processor add ricotta, sugar, goat cheese, orange zest and vanilla. Pulse until incorporated, do not over-mix.
+
+2) Place filling into a resealable plastic bag and cut the tip off to create a piping bag. Fill each shell with the cannoli filling and drizzle with melted chocolate.
+
+
+Tiramisu
+---------
+
+List of Ingredients:
+
+•	1 cup heavy whipping cream
+•	1 cup (8oz/225g) mascarpone cheese
+•	1/3 cup sugar
+•	1 teaspoon vanilla extract
+•	1 tablespoon of Brandy 
+•	2 cups espresso
+•	1 pack Boudoir biscuits
+•	Cocoa powder for dusting the top
+
+Method of Preparation:
+
+- Beat whipping cream, sugar, and vanilla until soft peaks form.
+- Add in mascarpone cheese and continue to whip to stiff peaks.
+- Dip boudoir biscuits in coffee and brandy and place in an 8×8 pan to make the first layer – you can fit about 7 cookies in each layer. 
+- Don't let them soak as the will fall apart, just a quick dunk in the coffee is enough.
+- Spread half of the whipped cream mixture on top of first layer of boudoir biscuits. Repeat process with second layer of lady fingers and cream mixture.
+- Dust the top of dessert with cocoa powder using a sieve. Refrigerate for about 2-4 hours.
+
+
+Panna Cotta
+-----------
+
+Ingredients:
+-1 tablespoon unflavored gelatin 
+-2 tablespoons cold water
+-2 cups heavy cream
+-1 cup half and half
+-1/3 cup sugar
+-1 1/2 teaspoons vanilla extract
+
+Method:
+1.In a very small saucepan sprinkle gelatin over water and let stand about 1 minute to soften. Heat gelatin mixture over low heat until gelatin is dissolved and remove pan from heat.
+2.In a large saucepan bring cream, half and half, and sugar just to a boil over moderately high heat, stirring. Remove pan from heat and stir in gelatin mixture and vanilla.
+ Divide cream mixture among eight 1/2-cup ramekins and cool to room temperature. Chill ramekins, covered, at least 4 hours or overnight.
+3.Dip ramekins, 1 at a time, into a bowl of hot water 3 seconds. Run a thin knife around edge of each ramekin and invert ramekin onto center of a small plate.
+
+
+						<<We hope that you will enjoy both making and tasting this meals.>>
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
