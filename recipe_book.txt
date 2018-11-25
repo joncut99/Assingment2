@@ -6,19 +6,28 @@ Table of Contents:
 Introduction
 
 Starters
-   - Bruschetta
-   - Tuna Dip
-   - Prawn Coctail
+   General Starters:
+   	 - Tuna Dip
+	 - Bruschetta	
+         - Prawn Coctail
+   Vegetarian Starters:
+ 	 - Mushroom Soup
 
 Main Course:
-   - Fettucini Al Fredo
-   - Beef Fillet
-   - Vegetarian Risotto
+  General Meals:
+     	 - Fettucini Al Fredo
+   	 - Beef Fillet
+    	 - Vegetarian Risotto
+  Vegetarian Meals:
+	 - 
 
 Desserts:
-   - Chocolate Cake
-   - Banoffee Pie
-   - Lemon Cheesecake
+  General Desserts:
+ 	  - Chocolate Cake
+ 	  - Banoffee Pie
+	  - Lemon Cheesecake
+  Vegetarian Desserts:
+	  -
 
 Conclusion
 
@@ -37,6 +46,8 @@ will make your next gathering a great success.
 ---------------------------------------------------------------------------------------------------------------------------------
 Starters Recipes:
 --------------------
+General Starters:
+
 Tuna Dip
 
 Description: A flavourful dip best served with crackers or potato chips.
@@ -135,6 +146,31 @@ Method of Preparation:
   garnish the dish with a prawn and cayenne pepper.
 
 
+-------------------------------------------------------------------------------------------------------------------------------------
+Vegetarian Starters:
+********************
+Mushroom Soup
+
+List of Ingredients:
+
+•	1/2 tablespoons olive oil 
+•	454g mushrooms, sliced (including mushroom stems)
+•	8 cloves garlic, minced
+•	1/2 large onion, finely diced
+•	1 teaspoon sea salt & 1/2 teaspoon ground black pepper
+•	3 cups high quality vegetable broth
+•	1 1/2 cups of coconut milk 
+•	4 sprigs thyme, stems removed
+
+Method of Preperation:
+
+- In a large pot over medium high heat, add the olive oil to heat.
+- Add the mushrooms, garlic, onion and salt and pepper. Stir together and sauté until mushrooms begin to release 
+  their natural juices, do this for about 8 minutes.
+- Pour in the vegetable broth and the coconut milk. Add in the thyme. Stir together and bring to a boil, then a simmer for 15 minutes.
+- Scoop out two cups of soup (with some mushrooms) and pour into your blender. 
+- Press the soup setting or blend until fully blended out. Pour back into soup pot and blend one more time.
+- Serve the soup and top with your favourite toppings.
 -------------------------------------------------------------------------------------------------------------------------------------
 Main Course Recipes:
 --------------------
@@ -336,6 +372,8 @@ Method:
 
 Lemon Cheesecake:
 -----------------
+
+Description: A zesty dessert made with simple ingredients and only takes a maximum of 20 minutes to prepare.
 
 List of Ingredients needed:
 
